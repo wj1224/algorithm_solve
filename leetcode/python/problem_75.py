@@ -12,4 +12,3 @@ class Solution:
 			else:
 				nums[w], nums[b] = nums[b], nums[w]
 				b -= 1
-		
